@@ -26,5 +26,5 @@ We would like to thank all the contributors who have helped in making this proje
 
 - **[Lucky Nirankari](https://github.com/BhayanakAatma)** - *Devloped backend and Database*
 - **[Mohd. Salim Shaik ](https://github.com/Salim-333)** - *Devloped frontend and API implementation*
-
+- **[Vasant Pardeshi](https://github.com/Vas1261)** - *CSS, documentation and Database*
 
